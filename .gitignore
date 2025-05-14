@@ -1,0 +1,34 @@
+# Bytecode files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+*.env
+
+# IDE config
+.idea/
+.vscode/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# File di log o dati temporanei
+*.log
+*.bak
+*.tmp
+
+# File di test o salvataggi locali
+*.sqlite3
+*.db
+*.json
+*.csv
+
+# Python cache test
+.pytest_cache/
